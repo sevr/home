@@ -1,0 +1,37 @@
+<style>
+
+body {
+background: wheat ;
+font-family: monospace;
+font-size: 3em ;
+color: black ;
+}
+
+
+p.inline {
+    display: inline;
+}
+
+</style>
+
+<p>
+<a href=http://google.com>
+About
+</a>
+
+<p>
+<a href=http://wikipedia.org>
+Portfolio
+</a>
+
+
+<p>
+<a href=http://gutenberg.org>
+Pricing
+</a>
+
+
+<p>
+<a href=http://d3js.org>
+Contact
+</a>
